@@ -35,10 +35,10 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "https://smrturl.co/cd406d3",
+      "update_action" : "",
       "update_msg" : "",
       "update_state" : false,
-      "update_title" : "شارك في العرض لحصول على سيرفر (آي بي تي في) مجاني خاص بقنوات بي ان سبورت"
+      "update_title" : ""
     },
     "app" : {
       "mode_off_version" : "0"
