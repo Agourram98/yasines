@@ -13,19 +13,19 @@
       "admob_unit_id" : ""
     },
     "appodeal" : {
-      "appodeal_app_key" : ""
+      "appodeal_app_key" : "a9ddb9c477cfe47d85ec4b998ce5eeddfd664c3ae448a92f"
     },
     "facebook" : {
-      "facebook_banner_id" : "",
-      "facebook_interstitial_id" : "",
-      "facebook_native_id" : "",
-      "facebook_native_banner_id" : ""
+      "facebook_banner_id" : "651984412670876_651998926002758",
+      "facebook_interstitial_id" : "651984412670876_651999186002732",
+      "facebook_native_id" : "651984412670876_652004929335491",
+      "facebook_native_banner_id" : "651984412670876_652010556001595"
     },
-    "mode_ads_banner" : "0",
-    "mode_ads_interstitial" : "0",
-    "mode_ads_interstitial_mix" : "0",
-    "mode_ads_native_enabled" : false,
-    "mode_ads_rewarded" : "0",
+    "mode_ads_banner" : "facebook",
+    "mode_ads_interstitial" : "facebook",
+    "mode_ads_interstitial_mix" : "facebook",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "facebook",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
@@ -34,10 +34,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
+      "enable_update_closed" : true,
       "update_action" : "https://smrturl.co/cd406d3",
       "update_msg" : "",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : "شارك في العرض لحصول على سيرفر (آي بي تي في) مجاني خاص بقنوات بي ان سبورت"
     },
     "app" : {
