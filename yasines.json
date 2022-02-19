@@ -21,7 +21,7 @@
       "facebook_native_id" : "651984412670876_652004929335491",
       "facebook_native_banner_id" : "651984412670876_652010556001595"
     },
-    "mode_ads_banner" : "facebook",
+    "mode_ads_banner" : "appodeal",
     "mode_ads_interstitial" : "facebook",
     "mode_ads_interstitial_mix" : "facebook",
     "mode_ads_native_enabled" : true,
