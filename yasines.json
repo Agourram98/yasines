@@ -23,9 +23,9 @@
     },
     "mode_ads_banner" : "appodeal",
     "mode_ads_interstitial" : "facebook",
-    "mode_ads_interstitial_mix" : "facebook",
+    "mode_ads_interstitial_mix" : "appodeal",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "facebook",
+    "mode_ads_rewarded" : "appodeal",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
